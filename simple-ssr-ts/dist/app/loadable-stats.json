@@ -1,0 +1,66 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.31.0",
+  "hash": "e708f96e572159a97762",
+  "publicPath": "",
+  "outputPath": "/Users/ssen/Workspace/react-zeroconfig-fixtures/simple-ssr-ts/dist/app/browser",
+  "assetsByChunkName": {
+    "app": "app.e708f96e572159a97762.js",
+    "vendor": "vendor.e708f96e572159a97762.js"
+  },
+  "assets": [
+    {
+      "name": "app.e708f96e572159a97762.js",
+      "size": 2312,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "app"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "vendor.e708f96e572159a97762.js",
+      "size": 151901,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "vendor"
+      ],
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "app": {
+      "chunks": [
+        1,
+        0
+      ],
+      "assets": [
+        "vendor.e708f96e572159a97762.js",
+        "app.e708f96e572159a97762.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "app": {
+      "chunks": [
+        1,
+        0
+      ],
+      "assets": [
+        "vendor.e708f96e572159a97762.js",
+        "app.e708f96e572159a97762.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "children": []
+}

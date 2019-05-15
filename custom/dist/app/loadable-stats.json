@@ -1,0 +1,66 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.31.0",
+  "hash": "73c17c819fdd8f6c656a",
+  "publicPath": "",
+  "outputPath": "/Users/ssen/Workspace/react-zeroconfig-fixtures/custom-browserslist/dist/app/browser",
+  "assetsByChunkName": {
+    "app": "app.73c17c819fdd8f6c656a.js",
+    "vendor": "vendor.73c17c819fdd8f6c656a.js"
+  },
+  "assets": [
+    {
+      "name": "app.73c17c819fdd8f6c656a.js",
+      "size": 2295,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "app"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "vendor.73c17c819fdd8f6c656a.js",
+      "size": 151901,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "vendor"
+      ],
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "app": {
+      "chunks": [
+        1,
+        0
+      ],
+      "assets": [
+        "vendor.73c17c819fdd8f6c656a.js",
+        "app.73c17c819fdd8f6c656a.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "app": {
+      "chunks": [
+        1,
+        0
+      ],
+      "assets": [
+        "vendor.73c17c819fdd8f6c656a.js",
+        "app.73c17c819fdd8f6c656a.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "children": []
+}
