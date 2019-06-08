@@ -5,7 +5,7 @@ import Router from 'koa-router';
 import React from 'react';
 import { renderToString } from 'react-dom/server';
 
-const port = Number(process.env.PORT || process.env.SERVER_PORT || 4100);
+const port = Number(process.env.SERVER_PORT || 4100);
 
 const app = new Koa();
 const router = new Router();
